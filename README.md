@@ -1,4 +1,6 @@
-# Yasar-Portfolio
+<h1>Portfolio</h1>
+
+A portfolio is a representation of your abilities and expertise. It usually consists of documents like certificates, transcripts, examples of previous projects, and recommendation letters. It can be utilized to create a favorable impact!!
 
 <img width="1439" alt="Screenshot 2024-02-25 at 6 33 54 PM" src="https://github.com/MohamedYasarArafat/Yasar-Portfolio/assets/49508470/2ab5b963-8dca-42ae-b400-0686b9146442">
 
